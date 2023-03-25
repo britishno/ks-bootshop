@@ -7,11 +7,7 @@
           "type": "slide",
           "settings": {
             "img_mobile": "shopify:\/\/shop_images\/lifestyle-1-mobile.jpg",
-            "img_mobile_height": 500,
-            "img_mobile_opacity": 0.7,
             "img_desktop": "shopify:\/\/shop_images\/lifestyle-1.jpg",
-            "img_desktop_height": 800,
-            "img_desktop_opacity": 0.7,
             "title": "Welcome to KS BootShop Theme",
             "title_size": "h2",
             "description": "<p>Free Shopify Theme powered by Bootstrap v5 framework<\/p>",
@@ -26,11 +22,7 @@
           "type": "slide",
           "settings": {
             "img_mobile": "shopify:\/\/shop_images\/lifestyle-2-mobile.jpg",
-            "img_mobile_height": 500,
-            "img_mobile_opacity": 0.7,
             "img_desktop": "shopify:\/\/shop_images\/lifestyle-2.jpg",
-            "img_desktop_height": 800,
-            "img_desktop_opacity": 0.7,
             "title": "Simple to Use, Easy to Customize",
             "title_size": "h2",
             "description": "<p>Free Shopify Theme powered by Bootstrap v5 framework<\/p>",
@@ -58,34 +50,11 @@
     "165151877352b831f8": {
       "type": "featured-products",
       "settings": {
-        "products": [
-          "bag-series-1",
-          "glasses-series-3",
-          "heat-series-2",
-          "lamp-series-2",
-          "watch-series-1",
-          "bag-series-3",
-          "lamp-series-1",
-          "glasses-series-2"
-        ],
         "bg_color": "",
         "text_align": "text-center",
         "title": "Featured Products",
         "title_size": "h2",
-        "description": "<p>Add on optional description to this section<\/p>",
-        "description_size": "fs-6",
-        "product_img_orientation": "square",
-        "product_img_border": "img-thumbnail",
-        "product_title_size": "h6",
-        "breakpoint_xs": 2,
-        "breakpoint_sm": 2,
-        "breakpoint_md": 2,
-        "breakpoint_lg": 3,
-        "breakpoint_xl": 4,
-        "breakpoint_xxl": 4,
-        "btn_show": true,
         "btn_text": "View more products »",
-        "btn_url": "shopify:\/\/collections\/all",
         "btn_color": "btn-outline-secondary",
         "pt": 10,
         "pb": 11,
@@ -99,43 +68,37 @@
         "8c529e86-7b51-4d75-baa3-1d4681b8c75c": {
           "type": "collection",
           "settings": {
-            "collection": "men",
-            "title": ""
+            "collection": "men"
           }
         },
         "77c3798e-6857-46a0-92bc-df3c48109366": {
           "type": "collection",
           "settings": {
-            "collection": "women",
-            "title": ""
+            "collection": "women"
           }
         },
         "ec048dd5-f669-4b0e-811b-cd904f95bde5": {
           "type": "collection",
           "settings": {
-            "collection": "children",
-            "title": ""
+            "collection": "children"
           }
         },
         "ec7164c1-d2b0-4fd9-b81f-18204c938d9a": {
           "type": "collection",
           "settings": {
-            "collection": "babies",
-            "title": ""
+            "collection": "babies"
           }
         },
         "9e860958-3e5a-44e1-ace8-49e74c8ea9ef": {
           "type": "collection",
           "settings": {
-            "collection": "latest",
-            "title": ""
+            "collection": "latest"
           }
         },
         "e86d0893-60ca-4bbf-aa40-c1ea7de37bec": {
           "type": "collection",
           "settings": {
-            "collection": "sale",
-            "title": ""
+            "collection": "sale"
           }
         }
       },
@@ -152,18 +115,8 @@
         "text_align": "text-center",
         "title": "Featured Collections",
         "title_size": "h2",
-        "description": "<p>Add on optional description to this section<\/p>",
-        "description_size": "fs-6",
-        "collection_img_orientation": "landscape",
-        "collection_img_border": "img-thumbnail",
         "btn_text": "View all collections",
         "btn_color": "btn-outline-secondary",
-        "breakpoint_xs": 1,
-        "breakpoint_sm": 2,
-        "breakpoint_md": 2,
-        "breakpoint_lg": 3,
-        "breakpoint_xl": 3,
-        "breakpoint_xxl": 3,
         "pt": 10,
         "pb": 11,
         "mt": 0,
@@ -176,12 +129,7 @@
         "a31f2a51-209c-40f5-8782-38280ee0b30d": {
           "type": "item",
           "settings": {
-            "text_align": "text-start",
-            "shadow": "shadow-sm",
-            "border_color": "",
-            "border_width": 1,
             "img": "shopify:\/\/shop_images\/collection-5.jpg",
-            "img_orientation": "landscape",
             "img_crop": "center",
             "title": "Card with image",
             "title_size": "h5",
@@ -196,12 +144,7 @@
         "8e95535f-a8b1-440c-8dc1-47263a1da13e": {
           "type": "item",
           "settings": {
-            "text_align": "text-start",
-            "shadow": "shadow",
-            "border_color": "border-primary",
-            "border_width": 1,
             "img": "shopify:\/\/shop_images\/collection-3.jpg",
-            "img_orientation": "landscape",
             "img_crop": "center",
             "title": "Card with image",
             "title_size": "h5",
@@ -216,12 +159,7 @@
         "9450772e-4e92-4251-97cd-69e844e7fe9f": {
           "type": "item",
           "settings": {
-            "text_align": "text-start",
-            "shadow": "shadow-sm",
-            "border_color": "",
-            "border_width": 1,
             "img": "shopify:\/\/shop_images\/collection-2.jpg",
-            "img_orientation": "landscape",
             "img_crop": "center",
             "title": "Card with image",
             "title_size": "h5",
@@ -236,12 +174,7 @@
         "5f2ca4c4-dfa9-477b-95dc-1887e7efbb45": {
           "type": "item",
           "settings": {
-            "text_align": "text-start",
-            "shadow": "shadow-sm",
-            "border_color": "",
-            "border_width": 1,
             "img": "shopify:\/\/shop_images\/collection-4.jpg",
-            "img_orientation": "landscape",
             "img_crop": "center",
             "title": "Card with image",
             "title_size": "h5",
@@ -262,11 +195,6 @@
       ],
       "settings": {
         "bg_color": "bg-white text-dark",
-        "text_align": "text-center",
-        "title": "Cards With Image",
-        "title_size": "h2",
-        "description": "<p>Add on optional description to this section<\/p>",
-        "description_size": "fs-6",
         "row_xs": 1,
         "row_sm": 2,
         "row_lg": 4,
@@ -280,16 +208,11 @@
       "type": "image-with-text",
       "settings": {
         "bg_color": "bg-light text-body",
-        "text_align": "text-start",
         "image": "shopify:\/\/shop_images\/no-image.jpg",
-        "img_orientation": "landscape-x2",
         "img_crop": "center",
         "img_border": "img-thumbnail",
-        "img_align_desktop": "flex-lg-row",
         "title": "Image With Text",
         "title_size": "h2",
-        "subtitle": "Some Optional Subtitle",
-        "subtitle_size": "fs-6",
         "description": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
         "description_size": "fs-6",
         "btn_text": "Learn more",

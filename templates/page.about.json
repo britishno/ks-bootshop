@@ -7,17 +7,7 @@
           "type": "slide",
           "settings": {
             "img_mobile": "shopify:\/\/shop_images\/lifestyle-2-mobile.jpg",
-            "img_mobile_height": 360,
-            "img_mobile_opacity": 0.7,
-            "img_mobile_blur": 0,
-            "caption_position_mobile": "carousel-caption-mobile-center",
             "img_desktop": "shopify:\/\/shop_images\/lifestyle-2.jpg",
-            "img_desktop_height": 600,
-            "img_desktop_opacity": 0.7,
-            "img_desktop_blur": 0,
-            "caption_position_desktop": "carousel-caption-desktop-bottom",
-            "subtitle": "",
-            "subtitle_size": "fs-5",
             "title": "",
             "title_size": "h2",
             "description": "",
@@ -25,11 +15,7 @@
             "btn_text": "",
             "btn_url": "",
             "btn_color": "btn-primary",
-            "btn_size": "",
-            "btn_secondary_text": "",
-            "btn_secondary_url": "",
-            "btn_secondary_color": "btn-primary",
-            "btn_secondary_size": ""
+            "btn_size": ""
           }
         }
       },
@@ -38,12 +24,9 @@
       ],
       "settings": {
         "controls": true,
-        "controls_style": "carousel-controls-arrows",
         "indicators": true,
-        "indicators_style": "carousel-indicators-circles",
         "autoplay": false,
         "animation": "slide",
-        "ken_burns": true,
         "mt": 0,
         "mb": 0
       }
@@ -74,12 +57,7 @@
         "e6fbab57-3cca-47b2-bb1b-e2b18653ae1b": {
           "type": "item",
           "settings": {
-            "text_align": "text-start",
-            "shadow": "shadow-sm",
-            "border_color": "",
-            "border_width": 1,
             "img": "shopify:\/\/shop_images\/collection-1.jpg",
-            "img_orientation": "landscape",
             "img_crop": "center",
             "title": "John Doe",
             "title_size": "h5",
@@ -94,12 +72,7 @@
         "751a5030-aaaa-44b1-bca1-8f5d9a811a8b": {
           "type": "item",
           "settings": {
-            "text_align": "text-start",
-            "shadow": "shadow-sm",
-            "border_color": "",
-            "border_width": 1,
             "img": "shopify:\/\/shop_images\/collection-6.jpg",
-            "img_orientation": "landscape",
             "img_crop": "center",
             "title": "Jane Doe",
             "title_size": "h5",
@@ -114,12 +87,7 @@
         "13b37b67-199f-46d5-9083-3e27d855729b": {
           "type": "item",
           "settings": {
-            "text_align": "text-start",
-            "shadow": "shadow-sm",
-            "border_color": "",
-            "border_width": 1,
             "img": "shopify:\/\/shop_images\/collection-4.jpg",
-            "img_orientation": "landscape",
             "img_crop": "center",
             "title": "John Doe",
             "title_size": "h5",
@@ -134,12 +102,7 @@
         "4eb76491-34b9-433c-b644-3e29b11754cf": {
           "type": "item",
           "settings": {
-            "text_align": "text-start",
-            "shadow": "shadow-sm",
-            "border_color": "",
-            "border_width": 1,
             "img": "shopify:\/\/shop_images\/collection-2.jpg",
-            "img_orientation": "landscape",
             "img_crop": "center",
             "title": "Jane Doe",
             "title_size": "h5",
@@ -160,11 +123,6 @@
       ],
       "settings": {
         "bg_color": "bg-light text-dark",
-        "text_align": "text-center",
-        "title": "Our Team",
-        "title_size": "h2",
-        "description": "<p>Add on optional description to this section<\/p>",
-        "description_size": "fs-6",
         "row_xs": 1,
         "row_sm": 2,
         "row_lg": 4,
@@ -178,16 +136,11 @@
       "type": "image-with-text",
       "settings": {
         "bg_color": "",
-        "text_align": "text-start",
         "image": "shopify:\/\/shop_images\/collection-5.jpg",
-        "img_orientation": "landscape",
         "img_crop": "center",
         "img_border": "img-thumbnail",
-        "img_align_desktop": "flex-lg-row",
         "title": "The Best Products!",
         "title_size": "h2",
-        "subtitle": "Some Optional Subtitle",
-        "subtitle_size": "fs-6",
         "description": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
         "description_size": "fs-6",
         "btn_text": "Shop now",
